@@ -31,3 +31,8 @@
 # Debug files
 *.dSYM/
 *.su
+
+# Specific files
+thesaurus-lookup
+hashset-test
+vector-test

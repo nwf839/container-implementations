@@ -1,0 +1,1 @@
+Removed bugs in memcpy and memmove calls. All methods in vector.h appear to be working
